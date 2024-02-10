@@ -29,7 +29,8 @@ The dashboard should look like this figure.
 
 ## run compressor:
   enter the configuration and also upload your input data (only .npy is supported now, you can use the example data: inputdata1000.npy/inputdata500.npy). After you have configured all the options, press submit.
-  <img width="434" alt="image" src="https://github.com/YuxiaoLi1234/fzvis/assets/143280350/118e1975-5c44-4e41-9665-404b73f382c9">
+ <img width="409" alt="image" src="https://github.com/YuxiaoLi1234/fzvis_tutorial1/assets/143280350/378d80ab-f7af-4c61-8963-f1da0f2d0e5c">
+
   ```
   compresoor_id: Please enter the type of compressor that is supported by libpressio.
   ```
