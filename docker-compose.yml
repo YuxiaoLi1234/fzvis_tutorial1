@@ -1,0 +1,13 @@
+version: '2.24.5'
+services:
+  backend:
+    image: yli14025/fzvis:backend  # 使用Docker Hub上的后端镜像
+    ports:
+      - "5000:5000"
+    depends_on:
+      - frontend
+  frontend:
+    
+    image: yli14025/fzvis:frontend  # 使用Docker Hub上的前端镜像
+    ports:
+      - "8080:8080"
