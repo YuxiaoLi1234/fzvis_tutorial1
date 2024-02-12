@@ -1,4 +1,4 @@
-version: '2.24.5'
+version: '2'
 services:
   backend:
     image: yli14025/fzvis:backend  # 使用Docker Hub上的后端镜像
